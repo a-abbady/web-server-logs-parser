@@ -4,4 +4,5 @@ loads the log to MySQL and checks if a given IP makes more than a certain number
 To run this project:
 
 1- set database connection information in parser.properties property file.
+
 2- put parser.properties under your User home directory.
